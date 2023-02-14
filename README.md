@@ -1,0 +1,2 @@
+# mynewrepository.github.io
+ 
